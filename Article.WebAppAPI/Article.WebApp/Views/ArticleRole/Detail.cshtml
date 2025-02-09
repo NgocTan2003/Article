@@ -1,0 +1,92 @@
+﻿@using Article.Dtos.Roles
+@model ArticleRoleDto
+@{
+    ViewData["Title"] = "Detail Role -";
+}
+
+@section naviheader {
+    <!-- Left navbar links -->
+    <ul class="navbar-nav">
+        <li class="nav-item">
+            <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a asp-controller="HomeDashboard" asp-action="Index" class="nav-link">Trang chủ</a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a asp-controller="ArticleRole" asp-action="Index" class="nav-link">Vai trò</a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a href="#" class="nav-link">Chi tiết</a>
+        </li>
+    </ul>
+}
+
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Chi tiết vai trò</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Vai trò</a></li>
+                    <li class="breadcrumb-item active">Chi tiết</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="content">
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Thông tin vai trò</h3>
+            <div class="card-body">
+                <form asp-action="Edit" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="bs-stepper-content">
+                        <div id="logins-part" class="content" role="tabpanel" aria-labelledby="logins-part-trigger">
+                            <div class="form-group">
+                                <label></label>
+                            </div>
+                            <div class="form-group">
+                                <label for="Name">Tên vai trò</label>
+                                <input readonly asp-for="Name" class="form-control" placeholder="Tên vai trò" title="Name" />
+                            </div>
+                            <div class="form-group">
+                                <label for="Description">Mô tả vai trò</label>
+                                <input readonly asp-for="Description" class="form-control" placeholder="Tên vai trò" title="Description" />
+                            </div>
+                            <div class="form-group">
+                                <label for="CreateBy">Người tạo</label>
+                                <input readonly asp-for="CreateBy" class="form-control" placeholder="Người tạo" title="CreateBy" />
+                            </div>
+                            <div class="form-group">
+                                <label for="DateCreated">Ngày tạo</label>
+                                <input readonly asp-for="DateCreated" class="form-control" placeholder="Ngày tạo" title="DateCreated" />
+                            </div>
+                            <div class="form-group">
+                                <label for="UpdateBy">Người sửa</label>
+                                <input readonly asp-for="UpdateBy" class="form-control" placeholder="Người sửa" title="UpdateBy" />
+                            </div>
+                            <div class="form-group">
+                                <label for="DateUpdated">Ngày sửa</label>
+                                <input readonly asp-for="DateUpdated" class="form-control" placeholder="Ngày sửa" title="DateUpdated" />
+                            </div>
+                            <div class="form-group">
+                                <a asp-action="Index" class="btn btn-danger">Quay lại</a>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+</section>
+
+@if (TempData["Error"] != null)
+{
+    <script>
+        toastr.error('@TempData["Error"]');
+    </script>
+}

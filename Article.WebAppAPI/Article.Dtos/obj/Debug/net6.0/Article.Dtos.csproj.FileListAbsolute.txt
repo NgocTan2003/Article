@@ -1,0 +1,34 @@
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Dtos.deps.json
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Dtos.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Dtos.pdb
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Common.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Data.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Common.pdb
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Data.pdb
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.csproj.AssemblyReference.cache
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.AssemblyInfoInputs.cache
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.AssemblyInfo.cs
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article..3F5D7A8E.Up2Date
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\refint\Article.Dtos.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.pdb
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\ref\Article.Dtos.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Dtos.deps.json
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Dtos.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Dtos.pdb
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Common.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Data.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Common.pdb
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\bin\Debug\net6.0\Article.Data.pdb
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.csproj.AssemblyReference.cache
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.AssemblyInfoInputs.cache
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.AssemblyInfo.cs
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.csproj.CoreCompileInputs.cache
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article..3F5D7A8E.Up2Date
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\refint\Article.Dtos.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\Article.Dtos.pdb
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Dtos\obj\Debug\net6.0\ref\Article.Dtos.dll

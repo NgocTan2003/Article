@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA304C71-38E0-4D1A-B3E9-2739EDC53920}|Article.WebApp\\Article.WebApp.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.webapp\\autoconfiguration\\tokenrefreshmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA304C71-38E0-4D1A-B3E9-2739EDC53920}|Article.WebApp\\Article.WebApp.csproj|solutionrelative:article.webapp\\autoconfiguration\\tokenrefreshmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA304C71-38E0-4D1A-B3E9-2739EDC53920}|Article.WebApp\\Article.WebApp.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.webapp\\autoconfiguration\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA304C71-38E0-4D1A-B3E9-2739EDC53920}|Article.WebApp\\Article.WebApp.csproj|solutionrelative:article.webapp\\autoconfiguration\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA304C71-38E0-4D1A-B3E9-2739EDC53920}|Article.WebApp\\Article.WebApp.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA304C71-38E0-4D1A-B3E9-2739EDC53920}|Article.WebApp\\Article.WebApp.csproj|solutionrelative:article.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA304C71-38E0-4D1A-B3E9-2739EDC53920}|Article.WebApp\\Article.WebApp.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.webapp\\connectapi\\articleappusercnapi\\articleappuserconnectapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA304C71-38E0-4D1A-B3E9-2739EDC53920}|Article.WebApp\\Article.WebApp.csproj|solutionrelative:article.webapp\\connectapi\\articleappusercnapi\\articleappuserconnectapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA304C71-38E0-4D1A-B3E9-2739EDC53920}|Article.WebApp\\Article.WebApp.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.webapp\\controllers\\articleusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA304C71-38E0-4D1A-B3E9-2739EDC53920}|Article.WebApp\\Article.WebApp.csproj|solutionrelative:article.webapp\\controllers\\articleusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA304C71-38E0-4D1A-B3E9-2739EDC53920}|Article.WebApp\\Article.WebApp.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.webapp\\connectapi\\articleappusercnapi\\iarticleappuserconnectapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA304C71-38E0-4D1A-B3E9-2739EDC53920}|Article.WebApp\\Article.WebApp.csproj|solutionrelative:article.webapp\\connectapi\\articleappusercnapi\\iarticleappuserconnectapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF141B02-2C43-43DF-8D0F-8F1A25EA4EEB}|Article.Application\\Article.Application.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.application\\services\\interfaces\\iarticleuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF141B02-2C43-43DF-8D0F-8F1A25EA4EEB}|Article.Application\\Article.Application.csproj|solutionrelative:article.application\\services\\interfaces\\iarticleuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF141B02-2C43-43DF-8D0F-8F1A25EA4EEB}|Article.Application\\Article.Application.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.application\\services\\implements\\articleuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF141B02-2C43-43DF-8D0F-8F1A25EA4EEB}|Article.Application\\Article.Application.csproj|solutionrelative:article.application\\services\\implements\\articleuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF141B02-2C43-43DF-8D0F-8F1A25EA4EEB}|Article.Application\\Article.Application.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.application\\services\\implements\\articlecategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF141B02-2C43-43DF-8D0F-8F1A25EA4EEB}|Article.Application\\Article.Application.csproj|solutionrelative:article.application\\services\\implements\\articlecategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CFDFD6-6C07-485F-93F4-A79237226FE8}|Article.Dtos\\Article.Dtos.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.dtos\\articleroledto\\createarticlerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CFDFD6-6C07-485F-93F4-A79237226FE8}|Article.Dtos\\Article.Dtos.csproj|solutionrelative:article.dtos\\articleroledto\\createarticlerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CFDFD6-6C07-485F-93F4-A79237226FE8}|Article.Dtos\\Article.Dtos.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.dtos\\articleroledto\\updatearticlerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CFDFD6-6C07-485F-93F4-A79237226FE8}|Article.Dtos\\Article.Dtos.csproj|solutionrelative:article.dtos\\articleroledto\\updatearticlerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CFDFD6-6C07-485F-93F4-A79237226FE8}|Article.Dtos\\Article.Dtos.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.dtos\\articleroledto\\articleroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CFDFD6-6C07-485F-93F4-A79237226FE8}|Article.Dtos\\Article.Dtos.csproj|solutionrelative:article.dtos\\articleroledto\\articleroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E70C67D-AC59-436C-8306-EE74EE5FEF5C}|Article.Data\\Article.Data.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.data\\entity\\articledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E70C67D-AC59-436C-8306-EE74EE5FEF5C}|Article.Data\\Article.Data.csproj|solutionrelative:article.data\\entity\\articledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CFDFD6-6C07-485F-93F4-A79237226FE8}|Article.Dtos\\Article.Dtos.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.dtos\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CFDFD6-6C07-485F-93F4-A79237226FE8}|Article.Dtos\\Article.Dtos.csproj|solutionrelative:article.dtos\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CFDFD6-6C07-485F-93F4-A79237226FE8}|Article.Dtos\\Article.Dtos.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.dtos\\userdto\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CFDFD6-6C07-485F-93F4-A79237226FE8}|Article.Dtos\\Article.Dtos.csproj|solutionrelative:article.dtos\\userdto\\authenticationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9DB4C2-FC29-479D-BDA7-D3A6EE321FF0}|Article.WebAPI\\Article.API.csproj|d:\\h\u1ECDc \u0111h\\doan\\article.webappapi\\article.webapi\\controllers\\articleappusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9DB4C2-FC29-479D-BDA7-D3A6EE321FF0}|Article.WebAPI\\Article.API.csproj|solutionrelative:article.webapi\\controllers\\articleappusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenRefreshMiddleware.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebApp\\AutoConfiguration\\TokenRefreshMiddleware.cs",
+              "RelativeDocumentMoniker": "Article.WebApp\\AutoConfiguration\\TokenRefreshMiddleware.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebApp\\AutoConfiguration\\TokenRefreshMiddleware.cs",
+              "RelativeToolTip": "Article.WebApp\\AutoConfiguration\\TokenRefreshMiddleware.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwCMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:04:19.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebApp\\AutoConfiguration\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "Article.WebApp\\AutoConfiguration\\TokenHandler.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebApp\\AutoConfiguration\\TokenHandler.cs",
+              "RelativeToolTip": "Article.WebApp\\AutoConfiguration\\TokenHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:04:18.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Article.WebApp\\Program.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebApp\\Program.cs",
+              "RelativeToolTip": "Article.WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:03:28.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticleUserController.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebApp\\Controllers\\ArticleUserController.cs",
+              "RelativeDocumentMoniker": "Article.WebApp\\Controllers\\ArticleUserController.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebApp\\Controllers\\ArticleUserController.cs",
+              "RelativeToolTip": "Article.WebApp\\Controllers\\ArticleUserController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:02:58.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IArticleAppUserConnectAPI.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebApp\\ConnectAPI\\ArticleAppUserCnAPI\\IArticleAppUserConnectAPI.cs",
+              "RelativeDocumentMoniker": "Article.WebApp\\ConnectAPI\\ArticleAppUserCnAPI\\IArticleAppUserConnectAPI.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebApp\\ConnectAPI\\ArticleAppUserCnAPI\\IArticleAppUserConnectAPI.cs",
+              "RelativeToolTip": "Article.WebApp\\ConnectAPI\\ArticleAppUserCnAPI\\IArticleAppUserConnectAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:02:44.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleAppUserConnectAPI.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebApp\\ConnectAPI\\ArticleAppUserCnAPI\\ArticleAppUserConnectAPI.cs",
+              "RelativeDocumentMoniker": "Article.WebApp\\ConnectAPI\\ArticleAppUserCnAPI\\ArticleAppUserConnectAPI.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebApp\\ConnectAPI\\ArticleAppUserCnAPI\\ArticleAppUserConnectAPI.cs",
+              "RelativeToolTip": "Article.WebApp\\ConnectAPI\\ArticleAppUserCnAPI\\ArticleAppUserConnectAPI.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwFsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:02:40.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IArticleUserService.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Application\\Services\\Interfaces\\IArticleUserService.cs",
+              "RelativeDocumentMoniker": "Article.Application\\Services\\Interfaces\\IArticleUserService.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Application\\Services\\Interfaces\\IArticleUserService.cs",
+              "RelativeToolTip": "Article.Application\\Services\\Interfaces\\IArticleUserService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:02:29.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticleUserService.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Application\\Services\\Implements\\ArticleUserService.cs",
+              "RelativeDocumentMoniker": "Article.Application\\Services\\Implements\\ArticleUserService.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Application\\Services\\Implements\\ArticleUserService.cs",
+              "RelativeToolTip": "Article.Application\\Services\\Implements\\ArticleUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:02:25.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArticleCategoryService.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Application\\Services\\Implements\\ArticleCategoryService.cs",
+              "RelativeDocumentMoniker": "Article.Application\\Services\\Implements\\ArticleCategoryService.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Application\\Services\\Implements\\ArticleCategoryService.cs",
+              "RelativeToolTip": "Article.Application\\Services\\Implements\\ArticleCategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:02:21.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateArticleRole.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Dtos\\ArticleRoleDto\\UpdateArticleRole.cs",
+              "RelativeDocumentMoniker": "Article.Dtos\\ArticleRoleDto\\UpdateArticleRole.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Dtos\\ArticleRoleDto\\UpdateArticleRole.cs",
+              "RelativeToolTip": "Article.Dtos\\ArticleRoleDto\\UpdateArticleRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:59:59.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateArticleRole.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Dtos\\ArticleRoleDto\\CreateArticleRole.cs",
+              "RelativeDocumentMoniker": "Article.Dtos\\ArticleRoleDto\\CreateArticleRole.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Dtos\\ArticleRoleDto\\CreateArticleRole.cs",
+              "RelativeToolTip": "Article.Dtos\\ArticleRoleDto\\CreateArticleRole.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:59:54.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArticleRoleDto.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Dtos\\ArticleRoleDto\\ArticleRoleDto.cs",
+              "RelativeDocumentMoniker": "Article.Dtos\\ArticleRoleDto\\ArticleRoleDto.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Dtos\\ArticleRoleDto\\ArticleRoleDto.cs",
+              "RelativeToolTip": "Article.Dtos\\ArticleRoleDto\\ArticleRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:59:51.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ArticleData.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Data\\Entity\\ArticleData.cs",
+              "RelativeDocumentMoniker": "Article.Data\\Entity\\ArticleData.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Data\\Entity\\ArticleData.cs",
+              "RelativeToolTip": "Article.Data\\Entity\\ArticleData.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:59:28.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Dtos\\UserDto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Article.Dtos\\UserDto\\UserDto.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Dtos\\UserDto\\UserDto.cs",
+              "RelativeToolTip": "Article.Dtos\\UserDto\\UserDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:58:51.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthenticationRequest.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Dtos\\UserDto\\AuthenticationRequest.cs",
+              "RelativeDocumentMoniker": "Article.Dtos\\UserDto\\AuthenticationRequest.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.Dtos\\UserDto\\AuthenticationRequest.cs",
+              "RelativeToolTip": "Article.Dtos\\UserDto\\AuthenticationRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:58:45.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArticleAppUserController.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebAPI\\Controllers\\ArticleAppUserController.cs",
+              "RelativeDocumentMoniker": "Article.WebAPI\\Controllers\\ArticleAppUserController.cs",
+              "ToolTip": "D:\\H\u1ECDc \u0110H\\DoAn\\Article.WebAppAPI\\Article.WebAPI\\Controllers\\ArticleAppUserController.cs",
+              "RelativeToolTip": "Article.WebAPI\\Controllers\\ArticleAppUserController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T08:54:59.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 106,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

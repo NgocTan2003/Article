@@ -1,0 +1,130 @@
+﻿@using Article.Dtos.UserDto
+<link href="~/assetsadmin/styles/image_index.css" rel="stylesheet" />
+
+@model ManagerRegister
+@{
+    ViewData["Title"] = "Create Account";
+}
+
+@section naviheader {
+    <!-- Left navbar links -->
+    <ul class="navbar-nav">
+        <li class="nav-item">
+            <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a asp-controller="HomeDashboard" asp-action="Index" class="nav-link">Trang chủ</a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a asp-controller="ArticleUser" asp-action="Index" class="nav-link">Tài khoản</a>
+        </li>
+        <li class="nav-item d-none d-sm-inline-block">
+            <a href="#" class="nav-link">Thêm mới</a>
+        </li>
+    </ul>
+}
+
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>Thêm mới tài khoản</h1>
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="#">Tài khoản</a></li>
+                    <li class="breadcrumb-item active">Thêm mới</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="content">
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Thông tin thêm mới tài khoản</h3>
+            <div class="card-body">
+                <form asp-action="Create" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label></label>
+                    </div>
+                    <div class="form-group">
+                        <label for="Username">Tên Người dùng</label>
+                        <input asp-for="UserName" class="form-control" placeholder="Nhập tên Người dùng" />
+                        <span asp-validation-for="UserName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Email">Email</label>
+                        <input asp-for="Email" class="form-control" placeholder="Nhập Email" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="PhoneNumber">Số điện thoại</label>
+                        <input asp-for="PhoneNumber" class="form-control" placeholder="Nhập số điện thoại" />
+                        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Password">Mật khẩu</label>
+                        <input asp-for="PassWord" type="password" class="form-control" placeholder="Nhập mật khẩu" />
+                        <span asp-validation-for="PassWord" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="LastName">Họ</label>
+                        <input asp-for="LastName" class="form-control" placeholder="Nhập họ" />
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="FirstName">Tên</label>
+                        <input asp-for="FirstName" class="form-control" placeholder="Nhập tên" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="FullName">Địa chỉ</label>
+                        <input asp-for="Adress" class="form-control" placeholder="Nhập địa chỉ" />
+                        <span asp-validation-for="Adress" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="ImageUpload">Ảnh đại diện</label>
+                        <input asp-for="UploadFile" class="form-control-file" title="Tải lên hình ảnh" />
+                        <span asp-validation-for="UploadFile" class="text-danger"></span>
+                        <img id="imgpreview" class="pt-2 style_imageAdmin" />
+                    </div>
+
+                    <div class="form-group">
+                        <label for="Roles">Roles</label>
+                        <select asp-for="Roles" class="form-control" asp-items="ViewBag.Roles">
+                        </select>
+                        <span asp-validation-for="Roles" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <a asp-action="Index" class="btn btn-danger">Quay lại</a>
+                        <button class="btn btn-primary">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    $("#User_ImageUpload").change(function () {
+        readURL(this);
+    })
+</script>
+
+@if (TempData["Error"] != null)
+{
+    <script>
+        toastr.error('@TempData["Error"]');
+    </script>
+}

@@ -1,0 +1,38 @@
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Application.deps.json
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Application.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Application.pdb
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Common.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Data.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Dtos.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Common.pdb
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Data.pdb
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Dtos.pdb
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.csproj.AssemblyReference.cache
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.AssemblyInfoInputs.cache
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.AssemblyInfo.cs
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article..F941C7BB.Up2Date
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\refint\Article.Application.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.pdb
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\ref\Article.Application.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Application.deps.json
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Application.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Application.pdb
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Common.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Data.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Dtos.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Common.pdb
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Data.pdb
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\bin\Debug\net6.0\Article.Dtos.pdb
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.csproj.AssemblyReference.cache
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.AssemblyInfoInputs.cache
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.AssemblyInfo.cs
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.csproj.CoreCompileInputs.cache
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article..F941C7BB.Up2Date
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\refint\Article.Application.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\Article.Application.pdb
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Application\obj\Debug\net6.0\ref\Article.Application.dll

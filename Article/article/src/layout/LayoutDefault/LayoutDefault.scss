@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.6rem;
+  text-rendering: optimizeSpeed;
+}
+
+.layout-default {
+  &__navbar {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  /* Ẩn header khi cuộn */
+  &__navbar.hidden {
+    transform: translateY(-100%);
+    transition: transform 0.3s ease-out;
+  }
+
+  /* Navbar sticky khi cuộn */
+  &__category {
+    position: relative;
+    transition: position 0.3s ease-out, top 0.3s ease-out;
+
+    &.sticky {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 1000;
+      background-color: white;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+  }
+
+  &__main {
+    align-content: center;
+  }
+
+  &__footer {
+    margin-top: 18px;
+    text-align: center;
+    background-color: yellow;
+  }
+}

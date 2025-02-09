@@ -1,0 +1,78 @@
+.category {
+    font-size: 14px;
+    width: 100%;
+    border-bottom: 1px solid #e5e5e5;
+  
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      justify-content: space-evenly;
+      width: 100%;
+      align-items: center;
+      box-sizing: border-box;
+  
+      li {
+        position: relative; /* Định vị menu con */
+  
+        a {
+          text-decoration: none;
+          color: #222222;
+          padding: 12px 0;
+          display: block;
+  
+          &:hover {
+            color: #b52759;
+          }
+        }
+  
+        .menu__sub {
+          position: absolute;
+          flex-direction: column;
+          list-style: none;
+          min-width: 130px;
+          max-width: 200px;
+          white-space: nowrap;
+          overflow: hidden;
+          background-color: #fff;
+          border: 1px solid #ddd;
+          top: 44px;
+          display: none;
+          -webkit-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+          -moz-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  
+          li {
+            margin: 2px 0;
+  
+            a {
+              text-decoration: none;
+              color: #222222;
+              padding: 6px;
+  
+              &:hover {
+                text-decoration: underline;
+              }
+            }
+          }
+        }
+  
+        &:hover .menu__sub {
+          display: flex;  
+        }
+      }
+    }
+  
+    &__link {
+      &--active {
+        color: #b52759 !important;
+      }
+    }
+  
+    .logoHome {
+      width: 15px;
+      height: 15px;
+    }
+  }
+  

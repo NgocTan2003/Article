@@ -1,0 +1,22 @@
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Common\bin\Debug\net6.0\Article.Common.deps.json
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Common\bin\Debug\net6.0\Article.Common.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Common\bin\Debug\net6.0\Article.Common.pdb
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\Article.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\Article.Common.AssemblyInfoInputs.cache
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\Article.Common.AssemblyInfo.cs
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\Article.Common.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\Article.Common.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\refint\Article.Common.dll
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\Article.Common.pdb
+D:\VisualStudio\Backend\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\ref\Article.Common.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Common\bin\Debug\net6.0\Article.Common.deps.json
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Common\bin\Debug\net6.0\Article.Common.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Common\bin\Debug\net6.0\Article.Common.pdb
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\Article.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\Article.Common.AssemblyInfoInputs.cache
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\Article.Common.AssemblyInfo.cs
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\Article.Common.csproj.CoreCompileInputs.cache
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\Article.Common.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\refint\Article.Common.dll
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\Article.Common.pdb
+D:\Học ĐH\DoAn\Article.WebAppAPI\Article.Common\obj\Debug\net6.0\ref\Article.Common.dll
